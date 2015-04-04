@@ -1,0 +1,8 @@
+Microsoft Windows [Versión 6.3.9600]
+(c) 2013 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Walt>cd documents/waltergit/tp0
+
+C:\Users\Walt\Documents\WalterGit\TP0>holaMundo
+Hello, World!!
+C:\Users\Walt\Documents\WalterGit\TP0>
